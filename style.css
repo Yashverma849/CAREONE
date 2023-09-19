@@ -43,7 +43,7 @@ body, h1, h2, p {
   }
   
   .menu a:hover {
-    background-color: darkblue;
+    background-color: pink;
     border-radius: 8px;
   }
   
